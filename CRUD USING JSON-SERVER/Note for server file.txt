@@ -1,0 +1,41 @@
+1) Download node LTS version from following link
+	=> https://nodejs.org/en
+
+2) Install node in your system 
+
+3) Go to command and check the node version by using following cmd
+	=> node -v 
+
+4) Go to command and check the npm(Node Package Manager) version by using following cmd
+	=> npm -v 
+
+5) Create a SERVER Foleder and open it using cmd.
+
+5) Install JSON-Server package inside SERVER folder (Using CMD).
+	=> npm install -g json-server
+
+6) Create a users.json file with some data inside the SERVER folder.
+
+{
+  "users": [
+    {
+      "username": "John",
+      "email": "john@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "raju",
+      "email": "raju12@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "Admin",
+      "email": "admin@be-practical.com",
+      "id": 3
+    }
+  ]
+}
+
+7) To start JSON server use following cmd.
+
+	=> json-server --watch users.json

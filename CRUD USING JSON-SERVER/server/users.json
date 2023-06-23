@@ -1,0 +1,51 @@
+{
+  "empDetails": [
+    {
+      "name": "Vasantha",
+      "email": "vasantha@gmail.com",
+      "mobile": 9876543210,
+      "photo": "https://static.toiimg.com/photo/97475663.jpeg"
+    },
+    {
+      "name": "Rakshitha A",
+      "email": "vasantha@gmail.com",
+      "mobile": 9876543210,
+      "photo": "https://static.toiimg.com/photo/97475663.jpeg"
+    },
+    {
+      "name": "Likitha",
+      "email": "vasantha@gmail.com",
+      "mobile": 9876543210,
+      "photo": "https://static.toiimg.com/photo/97475663.jpeg"
+    },
+    {
+      "name": "Rajeshwari",
+      "email": "vasantha@gmail.com",
+      "mobile": 9876543210,
+      "photo": "https://static.toiimg.com/photo/97475663.jpeg"
+    },
+    {
+      "name": "Bhaskar",
+      "email": "vasantha@gmail.com",
+      "mobile": 9876543210,
+      "photo": "https://static.toiimg.com/photo/97475663.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "username": "John",
+      "email": "john@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "raju",
+      "email": "raju12@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "Admin",
+      "email": "admin@be-practical.com",
+      "id": 3
+    }
+  ]
+}
